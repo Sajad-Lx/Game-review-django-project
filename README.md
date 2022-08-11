@@ -1,5 +1,5 @@
 # Game Review Django Project
-This project is based on django for collecting reviews of game trend and their algorithm type used.
+It is a College team project. This project is based on django for collecting reviews of game trend and their algorithm type used.
 It collects review from different users and developers of games, what algorithm they used.
 This project is done for college project submission purpose.
 
